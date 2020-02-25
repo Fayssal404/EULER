@@ -1,2 +1,3 @@
 # EULER
-Mathematical Problems
+
+Mathematical Fun
